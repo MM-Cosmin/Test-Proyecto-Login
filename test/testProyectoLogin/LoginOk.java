@@ -89,6 +89,7 @@ public class LoginOk {
       return alertText;
     } finally {
       acceptNextAlert = true;
+	    
     }
   }
 }
